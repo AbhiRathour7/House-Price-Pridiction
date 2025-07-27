@@ -34,23 +34,23 @@
 
 ### 🔹 Step 1: Clone the Repository
 
-
-git clone https://github.com/AbhiRathour7/House-Price-Pridiction.git
+git clone https://github.com/AbhiRathour7/House-Price-Pridiction.git  
 cd House-Price-Pridiction
 
-🔹 Step 2: Backend Setup (Flask)
+### 🔹 Step 2: Backend Setup (Flask)
 
-
-cd server
-pip install -r requirements.txt
-python server.py
+cd server  
+pip install -r requirements.txt  
+python server.py  
 Backend runs at http://127.0.0.1:5000
 
-🔹 Step 3: Frontend Launch
+### 🔹 Step 3: Frontend Launch
+
 Simply open:
 
-client/app.html
+client/app.html  
 It auto connects with the backend Flask server 🎯
+
 
 
 📁 Project Folder Structure
