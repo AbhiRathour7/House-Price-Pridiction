@@ -5,7 +5,7 @@
 
 ## 📸 Project Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
